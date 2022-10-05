@@ -1,8 +1,14 @@
+/**
+ * Haleluia!!
+ */
+
 const myVariable = {
-  a: 'a',
-  b: 'b',
+  id: '123',
+  name: 'Hugo',
 };
 
-myVariable.c = 'hello';
+myVariable.age = 10;
+
+// myVariable.age
 
 export default myVariable;
