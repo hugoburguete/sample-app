@@ -4,7 +4,7 @@ import myVariable from './playground';
 import Button from './Button/Button';
 
 function App() {
-  console.log(myVariable);
+  console.log('hello world');
 
   return (
     <div className="App" aria-busy>
